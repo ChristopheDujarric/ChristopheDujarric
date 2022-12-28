@@ -16,4 +16,4 @@ Don't hesitate to reach out to me! I'm always happy to have a good chat on such 
 
 And because I'm proud of my contributions, no matter how small they are:
 
-![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopheDujarric&show_icons=true&theme=gotham&bg_color=00000000)
+![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopheDujarric&show_icons=true&theme=gotham&bg_color=00000000&count_private=true)
