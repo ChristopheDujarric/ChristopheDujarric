@@ -4,7 +4,7 @@ I like to say that I'm the least technical person in the companies I worked at i
 
 I've had the chance to work with some of the top tech minds in the web at Symfony, Blackfire.io, Platform.sh and now Bump.sh. I must say, even though I'm learning a lot, I don't believe I'll ever get to their level.
 
-So while I enjoy pushing some code to all sorts of repos, seing those lights turn green, and my PRs get merged, I'm focusing on the other parts of software:
+So while I enjoy pushing some code to all sorts of repos, seeing those lights turn green, and my PRs get merged, I'm focusing on the other parts of software:
 
 - Product Management
 - Product Marketing
